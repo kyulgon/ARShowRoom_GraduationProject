@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 8a79da33171ff65439cf50c976475713
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Stone Serif Std
+  fontNames:
+  - ITC Stone Serif Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70c9c612c57267743a0612bbc6554e46, type: 3}
+  - {fileID: 12800000, guid: 43acb639c1924ce4b9b37c581822f2dd, type: 3}
+  - {fileID: 12800000, guid: 01f12a7feeb1d93409631f3c60c5ff58, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

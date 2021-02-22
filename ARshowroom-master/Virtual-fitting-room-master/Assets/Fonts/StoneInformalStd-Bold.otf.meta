@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 9d02b0c92772f9445937679ad83956a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Stone Informal Std
+  fontNames:
+  - ITC Stone Informal Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 87b87cd475f7e0240a049aec7fd00ac3, type: 3}
+  - {fileID: 12800000, guid: 1c7cbb560cda4014c9630c02e5f6c709, type: 3}
+  - {fileID: 12800000, guid: 255be649af2b03846ac0d36dc5081472, type: 3}
+  - {fileID: 12800000, guid: 36ca737a2fda8cc48b1969209e143b50, type: 3}
+  - {fileID: 12800000, guid: 1da1325f7c375984bb36ef2585806d06, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

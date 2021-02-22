@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 926b9ad3d4b337d4f91bd1dbfd9c5160
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Stone Sans Std
+  fontNames:
+  - ITC Stone Sans Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40825c42f1e76cc429fad35ad8b580a8, type: 3}
+  - {fileID: 12800000, guid: 5457b979d065883408e390afde38b035, type: 3}
+  - {fileID: 12800000, guid: 9062055a4d660a64aafe25d2dcc914ab, type: 3}
+  - {fileID: 12800000, guid: 3e60b3ad2f5904945a15e6ba1d3b4413, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
